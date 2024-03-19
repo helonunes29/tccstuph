@@ -1,0 +1,29 @@
+.Rotas {
+    width: 300px;
+    height: 40px;
+    font-size: 15px;
+  margin-left: 40%;
+}
+
+html{
+
+    background-color: #F8F7F0;
+}
+
+.tabela{
+width: 500px;
+height: 500px;
+background-color: #9d81f896;
+margin-left: 360px;
+text-align: center;
+font-size: 15px;
+font-family: Arial, sans-serif;
+}
+
+.tabela {
+    margin: auto; /* Para centralizar horizontalmente */
+}
+
+ul{
+    text-align: center;
+}
