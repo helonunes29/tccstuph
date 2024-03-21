@@ -1,0 +1,35 @@
+.button {
+    font-size: 40px;
+    margin-top: 20px;
+border: none;
+background-color: #f8f7f0;
+margin-left: 30px;
+width: 50px;
+}
+
+html {
+    background-color: #f8f7f0;
+}
+
+h1{
+    color: #c279c9;
+    text-align: center;
+    margin-left: 400px ;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex; /* Usa flexbox para alinhar os elementos */
+    align-items: center; /* Alinha os elementos verticalmente ao centro */
+    text-align: center;
+
+}
+
+button {
+    background-color: #9747ffd3;
+    border-radius: 30px;
+    border: none;
+    width: 200px;
+    height: 40px;
+    margin-left: 520px;
+}
